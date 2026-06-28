@@ -7,7 +7,7 @@ Designed for **beginners, SQL Developers, and Junior DBAs** preparing for interv
 
 ---
 
-### ✅ Basic Programs
+### ✅ Basic Scripts
 - Addition, Subtraction, Multiplication, Division  
 - Factorial Number  
 - Palindrome (String/Number)  
@@ -16,7 +16,7 @@ Designed for **beginners, SQL Developers, and Junior DBAs** preparing for interv
 - Perfect Number  
 - Vowels and Consonants Count  
 
-### 🔢 Number-Based Programs
+### 🔢 Number-Based Scripts
 - Prime Number  
 - Fibonacci Series  
 - Reverse a Number  
@@ -25,6 +25,20 @@ Designed for **beginners, SQL Developers, and Junior DBAs** preparing for interv
 - Even/Odd Number  
 - Swap Two Numbers (with/without third variable)  
 - Strong Number  
+
+### ✅ Star-Based Scripts
+- Right Half Pyramid Pattern
+- Left Half Pyramid Pattern
+- Full Pyramid Pattern
+- Rhombus Pattern
+- Diamond Pattern
+- Hourglass Pattern
+- Hollow Square Pattern
+- Hollow Full Pyramid Pattern
+- Hollow Diamond Pattern
+- Hollow Hourglass Pattern
+- Floyd's Triangle
+- Pascal's Triangle
 
 ---
 
@@ -62,5 +76,3 @@ Pull requests are welcome! If you’d like to add more beginner-friendly SQL pro
     Updated:         28-Jun-2026
 
 ---
-
-**CHI — Creative Human Intelligence**
