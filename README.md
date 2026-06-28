@@ -1,13 +1,13 @@
 # Beginner Friendly SQL Server Scripts 🚀
 ---
-📖 Overview
+## 📖 Overview
 ---
 A collection of **SQL Server scripts inspired by C programs** and **common interview questions**.  
 Designed for **beginners, SQL Developers, and Junior DBAs** preparing for interviews.
 
 ---
 
-### ✅ Basic Scripts
+## ✅ Basic Scripts
 - Addition, Subtraction, Multiplication, Division  
 - Factorial Number  
 - Palindrome (String/Number)  
@@ -16,7 +16,7 @@ Designed for **beginners, SQL Developers, and Junior DBAs** preparing for interv
 - Perfect Number  
 - Vowels and Consonants Count  
 
-### 🔢 Number-Based Scripts
+## 🔢 Number-Based Scripts
 - Prime Number  
 - Fibonacci Series  
 - Reverse a Number  
@@ -26,7 +26,7 @@ Designed for **beginners, SQL Developers, and Junior DBAs** preparing for interv
 - Swap Two Numbers (with/without third variable)  
 - Strong Number  
 
-### ✅ Star-Based Scripts
+## ✅ Star-Based Scripts
 - Right Half Pyramid Pattern
 - Left Half Pyramid Pattern
 - Full Pyramid Pattern
@@ -71,7 +71,7 @@ Pull requests are welcome! If you’d like to add more beginner-friendly SQL pro
 
 ## 👧 Author
 
-    Auther Name:     Trupti Y. Sabale  
+    Author Name:     Trupti Y. Sabale  
     Created:         28-Jun-2026
     Updated:         28-Jun-2026
 
