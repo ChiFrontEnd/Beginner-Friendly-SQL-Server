@@ -1,0 +1,2 @@
+# Beginner-Friendly SQL Server
+
