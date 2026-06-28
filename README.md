@@ -1,4 +1,4 @@
-# Beginner-Friendly SQL Server Scripts 🚀
+# Beginner Friendly SQL Server Scripts 🚀
 ---
 📖 Overview
 ---
