@@ -29,4 +29,15 @@ Designed for **beginners, SQL Developers, and Junior DBAs** preparing for interv
 ## 📖 How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/sql-server-programs.git
+   git clone https://github.com/ChiFrontEnd/Beginner-Friendly-SQL-Server.git
+   ```
+
+---
+
+## 📌 Tags
+SQL DBA InterviewPrep BeginnerFriendly SQLServer
+
+---
+
+## 🤝 Contributions
+Pull requests are welcome! If you’d like to add more beginner-friendly SQL programs or DBA notes, please contribute.
