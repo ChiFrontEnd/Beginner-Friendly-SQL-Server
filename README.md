@@ -1,5 +1,7 @@
 # Beginner-Friendly SQL Server Scripts 🚀
-
+---
+📖 Overview
+---
 A collection of **SQL Server scripts inspired by C programs** and **common interview questions**.  
 Designed for **beginners, SQL Developers, and Junior DBAs** preparing for interviews.
 
@@ -48,6 +50,10 @@ Designed for **beginners, SQL Developers, and Junior DBAs** preparing for interv
 
 ---
 
+## 🤝 Contributions
+Pull requests are welcome! If you’d like to add more beginner-friendly SQL programs or DBA notes, please contribute.
+
+---
 
 ## 👧 Author
 
@@ -56,8 +62,5 @@ Designed for **beginners, SQL Developers, and Junior DBAs** preparing for interv
     Updated:         28-Jun-2026
 
 ---
-
-## 🤝 Contributions
-Pull requests are welcome! If you’d like to add more beginner-friendly SQL programs or DBA notes, please contribute.
 
 **CHI — Creative Human Intelligence**
